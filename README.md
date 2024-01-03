@@ -1,3 +1,15 @@
+Step 1-Create Validation Rules on the Account Object
+![Screenshot (107)](https://github.com/zaid-yousufzai/Assignment-2/assets/112823480/c1874c5f-72cc-483c-afa3-b27665f01b7f)
+
+Step 2-Create Custom Metadata Type for Validation Rules
+![Screenshot (106)](https://github.com/zaid-yousufzai/Assignment-2/assets/112823480/4482e189-1cf9-4a74-890d-988895c11708)
+
+Step 3-Create Apex Class for Validation Rule Management
+![Screenshot (109)](https://github.com/zaid-yousufzai/Assignment-2/assets/112823480/2e277dcc-1631-43ee-a8e1-6f4e2c2fe4ca)
+![Screenshot (108)](https://github.com/zaid-yousufzai/Assignment-2/assets/112823480/c0ae6b3d-baac-4e24-9366-bbe6e477700e)
+
+Step 4-Set-Up React App
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
